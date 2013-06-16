@@ -1,0 +1,26 @@
+{
+  "friendlyVersion": "VERSION",
+  "versionDefName": "APP_RESOURCES",
+  "media": [
+    {
+      "defName": "IMAGE_MENU_ICON",
+      "type": "png-trans",
+      "file": "images/icon.png"
+    },
+    {
+      "defName":"AVENIR_NEXT_COND_42",
+      "type":"font",
+      "file":"fonts/avenir_next_condensed_42.ttf"
+    },
+    {
+      "defName":"SILKSCREEN_8",
+      "type":"font",
+      "file":"fonts/silkscreen_8.ttf"
+    },
+    {
+      "type": "png",
+      "defName": "EDWARD_AND_KATE",
+      "file": "images/edward_and_kate.png"
+    } 
+  ]
+}
